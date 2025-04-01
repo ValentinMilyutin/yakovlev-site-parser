@@ -1,3 +1,7 @@
+Автор: Валентин Милютин
+✉️ theforgerdemirchi@gmail.com
+📬 t.me/soyertom
+
 # Yakovlev News Parser
 
 📄 **Описание:**
